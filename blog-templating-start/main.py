@@ -85,9 +85,6 @@ def nico_blog():
                            sport=sport_notice,
                            spo_image=sport_image,
                            spo2_image=sport_image_2,
-                           science=science_notice,
-                           science_image=sci_image,
-                           science2_image=sci2_image,
                            health=health_notice,
                            general=general_notice,
                            )
